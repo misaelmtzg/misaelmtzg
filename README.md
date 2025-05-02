@@ -2,7 +2,7 @@
 
 :computer: **Ingeniero en Sistemas Computacioneles**
 
-:location_point: **Tihuatlan, Ver**
+:point: **Tihuatlan, Ver**
 
 :family: **Padre de 2 hijos**
 
